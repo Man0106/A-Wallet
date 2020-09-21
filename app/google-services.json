@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "905720559966",
+    "firebase_url": "https://wallet-dd48c.firebaseio.com",
+    "project_id": "wallet-dd48c",
+    "storage_bucket": "wallet-dd48c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905720559966:android:d2a2c46ab111c5fc33f7cf",
+        "android_client_info": {
+          "package_name": "com.example.aplikasiaris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905720559966-gqgj71c244hjeh9acdv064kspc2ec1os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasiaris",
+            "certificate_hash": "84a9b095971e3ee747d32b77f203e929ad6090d8"
+          }
+        },
+        {
+          "client_id": "905720559966-sgdasd2g2gcmq7mmbm5kilekmba4fll0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasiaris",
+            "certificate_hash": "a069b6f7cf089a48e8de4ba6d8ee87e2e83e0712"
+          }
+        },
+        {
+          "client_id": "905720559966-dgv0r28co7ufgmu8ndjoskqc89l04r98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu8QMu8hBb8RmvX5eEjZC8Dv7bThzIjUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905720559966-dgv0r28co7ufgmu8ndjoskqc89l04r98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
