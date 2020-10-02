@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+<!--    <color name="colorPrimary">#008577</color>-->
+<!--    <color name="colorPrimaryDark">#00574B</color>-->
+<!--    <color name="colorAccent">#D81B60</color>-->
     <color name="kuning">#F7B050</color>
+
+    <color name="colorPrimary">#2FAD86</color>
+    <color name="colorPrimaryDark">@color/background</color>
+    <color name="colorAccent">#2196F3</color>
+    <!--2196F3-->
+    <color name="white">#FFF</color>
+    <color name="gray">#797878</color>
+
+    <!--<color name="online">#05df29</color>-->
+
+    <color name="blue_debet_kredit">#429BF6</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="warm_grey">#9a9a9a</color>
+    <color name="md_grey_800">#424242</color>
+
+    <color name="red">#F44336</color>
+    <color name="mid_gray">#605F64</color>
+
+    <!--    BURGEON COLOR LIST-->
+
+    <color name="background">#1B2139</color>
+    <color name="text_color">#2FAD86</color>
+    <color name="gray_burgeon">#212B46</color>
+    <color name="home_wallet_title">#698799</color>
+    <color name="home_profit_title">#9E7E8E</color>
+    <color name="home_credit_title">#BCC1BA</color>
+    <color name="home_debit_title">#BEBFBE</color>
+    <color name="home_kurs_rate_title">#9C92AC</color>
+    <color name="home_bottom_menu">#8893AD</color>
 
 </resources>

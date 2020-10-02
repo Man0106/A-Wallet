@@ -7,4 +7,67 @@
         <item>Buy</item>
         <item>Sell</item>
     </string-array>
+
+
+
+
+<string name="strSignIn">SIGN IN</string>
+<string name="strRegister">REGISTER</string>
+<string name="strEmail">EMAIL</string>
+<string name="strUsername">USERNAME</string>
+<string name="strPassword">PASSWORD</string>
+<string name="strExistUser">Existing User? Sign In</string>
+<string name="strNewSignUp">New User? Register</string>
+<string name="strReAuthenticate">Delete</string>
+<string name="strMsgAuthenticate">Please make sure that deleted account can\'t be recover any data which exist right now.</string>
+
+<!-- Messages -->
+<string name="msg_please_wait">Please wait...</string>
+<string name="msg_image_upload">Uploading...</string>
+<string name="strDeleteAccount">Delete My Account</string>
+
+<!-- Close message-->
+<string name="press_again_to_exit">Press again to exit app</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+
+<string name="default_notification_channel_id">fcm_default_channel</string>
+<string name="strShareTitle">My Firebase Chat</string>
+<string name="strShareContent">I would like to share Amazing App with you. You can download this application from playstore easliy.</string>
+<string name="strEmailSmall">Email</string>
+<string name="strUsernameSmall">Username</string>
+<string name="strStatus">About</string>
+<string name="strAboutStatus">Hey! I am using Burgeon Apps.</string>
+<string name="strEnterAbout">Enter your status</string>
+<string name="msgErrorEnterDesc">Please enter your status</string>
+<string name="strDone">Done</string>
+<string name="strCancel">Cancel</string>
+
+<string name="strSelectGender">Select Gender</string>
+<string name="msgSelectGender">Please select gender</string>
+<string name="msgInsertWallet">Please insert your wallet</string>
+<string name="strGender">Gender</string>
+<string name="strMale">Male</string>
+<string name="strFemale">Female</string>
+<string name="strUnspecified">Unspecified</string>
+<string-array name="arrGender">
+    <item>@string/strMale</item>
+    <item>@string/strFemale</item>
+</string-array>
+
+<!-- Filters -->
+<string name="strAllFieldsRequired">All fields are required!</string>
+<string name="strInvalidEmailPassword">Invalid email or password!</string>
+
+<string name="select_picture_title">Get Photo From</string>
+
+<string name="strWalletFormat">Bank : %1$s \nDana : %2$s \nPaypal : %3$s \nDoge : %4$s </string>
+<!--    <string name="feed_progit_info">Setelah anda melakukan Konfirmasi Topup, Anda akan mendapatkan Profit setelah 1x24 jam \nDana yang anda topup di akun COMMON, bisa ditarik setelah 30 hari.</string>-->
+
+<!--    <string name="strMsgKonfirmasi">Telah %1$s  %2$s sebesar $%2$d </string>-->
+
+<string name="wd_modal">WD Balance</string>
+<string name="wd_profit">WD Profit</string>
+
+
 </resources>

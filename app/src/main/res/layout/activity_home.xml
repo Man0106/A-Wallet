@@ -14,7 +14,7 @@
 
     <LinearLayout
         android:id="@+id/tabs_layout"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:layout_alignParentStart="true"
@@ -22,30 +22,30 @@
 
         <TextView
             android:id="@+id/txtprofile"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:padding="15dp"
+            android:gravity="center"
             android:text="Profile"
-            android:textSize="22sp" />
+            android:textSize="20sp" />
 
         <TextView
             android:id="@+id/txtbuysell"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:padding="15dp"
+            android:gravity="center"
             android:text="Buy or Sell"
-            android:textSize="22sp" />
+            android:textSize="20sp" />
 
         <TextView
             android:id="@+id/txttrans"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:padding="15dp"
+            android:gravity="center"
             android:text="Transaction"
-            android:textSize="22sp" />
+            android:textSize="20sp" />
     </LinearLayout>
 
     <androidx.viewpager.widget.ViewPager

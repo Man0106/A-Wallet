@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="padding2">2dp</dimen>
+    <dimen name="padding10">10dp</dimen>
+    <dimen name="padding5">5dp</dimen>
+    <dimen name="padding7">7dp</dimen>
+    <dimen name="padding15">15dp</dimen>
+    <dimen name="padding16">16dp</dimen>
+    <dimen name="padding20">20dp</dimen>
+    <dimen name="padding30">30dp</dimen>
+    <dimen name="padding40">40dp</dimen>
+    <dimen name="padding50">50dp</dimen>
+    <dimen name="paddingImage">100dp</dimen>
+
+
+    <!-- DP -->
+    <dimen name="fifteen_dp">15dp</dimen>
+    <dimen name="margin_item_home">6dp</dimen>
+    <dimen name="margin_circle_percentage">15dp</dimen>
+    <dimen name="corner_radius_home_item">5dp</dimen>
+    <dimen name="text_home_item_title">13sp</dimen>
+    <dimen name="text_home_item_amount">18sp</dimen>
+
+    <!-- SP -->
+</resources>
